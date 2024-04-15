@@ -1,0 +1,9 @@
+numpy
+torch
+os
+cv2 
+glob
+tqdm
+facenet_pytorch
+
+-e .
